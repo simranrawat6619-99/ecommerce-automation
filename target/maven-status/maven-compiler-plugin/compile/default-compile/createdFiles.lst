@@ -1,0 +1,8 @@
+com\ecommerce\pages\CartPage.class
+com\ecommerce\pages\FeedbackPage.class
+com\ecommerce\base\BaseTest.class
+com\ecommerce\utils\ExtentReportManager.class
+com\ecommerce\config\ConfigReader.class
+com\ecommerce\pages\ProductPage.class
+com\ecommerce\pages\LoginPage.class
+com\ecommerce\utils\ExcelUtils.class

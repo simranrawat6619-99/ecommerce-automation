@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ECommerce Suite" parallel="methods" thread-count="2">
+    <test name="Login Tests">
+        <classes>
+            <class name="com.ecommerce.tests.LoginTest"/>
+        </classes>
+    </test>
+    <test name="Cart Tests">
+        <classes>
+            <class name="com.ecommerce.tests.CartTest"/>
+        </classes>
+    </test>
+    <test name="Feedback Tests">
+        <classes>
+            <class name="com.ecommerce.tests.FeedbackTest"/>
+        </classes>
+    </test>
+</suite>
